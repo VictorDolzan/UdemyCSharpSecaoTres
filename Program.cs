@@ -20,7 +20,8 @@ namespace CSharpSecaoTres
             //EntradaDeDados.ExecutarExercicioDeOperadoresComparativos();
             //exercicioCinco.ExercicioCinco.ExecutarExercicioSeis();
             //OperadoresLogicos.ExecutarOperadoresLogicos();
-            EstruturaCondicional.ExecutarEstruturaCondicional();
+            //EstruturaCondicional.ExecutarEstruturaCondicional();
+            Funcoes.ExecutarFuncao();
 
 
         }
