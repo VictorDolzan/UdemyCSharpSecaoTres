@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Globalization;
 
+using CSharpSecaoTres.exercicioCinco;
 
 namespace CSharpSecaoTres
 {
@@ -16,7 +17,8 @@ namespace CSharpSecaoTres
             //OperadoresDeAtrbuicao.ExecutarOperadoresDeAtribuicao();
             //ConversaoImplicita.ExecutarConversaoImplicita();
             //OperadoresAritmeticos.ExecutarOperadoresAritmeticos();
-            EntradaDeDados.ExecutarExercicioEntradaDeDados();
+            //EntradaDeDados.ExecutarExercicioEntradaDeDados();
+            exercicioCinco.ExercicioCinco.ExecutarExercicioSeis();
 
 
 
