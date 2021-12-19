@@ -17,9 +17,10 @@ namespace CSharpSecaoTres
             //OperadoresDeAtrbuicao.ExecutarOperadoresDeAtribuicao();
             //ConversaoImplicita.ExecutarConversaoImplicita();
             //OperadoresAritmeticos.ExecutarOperadoresAritmeticos();
-            EntradaDeDados.ExecutarExercicioDeOperadoresComparativos();
+            //EntradaDeDados.ExecutarExercicioDeOperadoresComparativos();
             //exercicioCinco.ExercicioCinco.ExecutarExercicioSeis();
-
+            //OperadoresLogicos.ExecutarOperadoresLogicos();
+            EstruturaCondicional.ExecutarEstruturaCondicional();
 
 
         }
