@@ -17,8 +17,8 @@ namespace CSharpSecaoTres
             //OperadoresDeAtrbuicao.ExecutarOperadoresDeAtribuicao();
             //ConversaoImplicita.ExecutarConversaoImplicita();
             //OperadoresAritmeticos.ExecutarOperadoresAritmeticos();
-            //EntradaDeDados.ExecutarExercicioEntradaDeDados();
-            exercicioCinco.ExercicioCinco.ExecutarExercicioSeis();
+            EntradaDeDados.ExecutarExercicioDeOperadoresComparativos();
+            //exercicioCinco.ExercicioCinco.ExecutarExercicioSeis();
 
 
 
