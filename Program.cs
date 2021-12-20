@@ -21,7 +21,10 @@ namespace CSharpSecaoTres
             //exercicioCinco.ExercicioCinco.ExecutarExercicioSeis();
             //OperadoresLogicos.ExecutarOperadoresLogicos();
             //EstruturaCondicional.ExecutarEstruturaCondicional();
-            Funcoes.ExecutarFuncao();
+            //Funcoes.ExecutarFuncao();
+            //EstruturaWhile.ExecutarEstruturaWhile();
+            //EstruturaWhile.ExecutarExercicioSenha();
+            EstruturaWhile.ExecutarExercicioCartesiano();
 
 
         }
