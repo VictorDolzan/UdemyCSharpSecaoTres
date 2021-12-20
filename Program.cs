@@ -24,7 +24,12 @@ namespace CSharpSecaoTres
             //Funcoes.ExecutarFuncao();
             //EstruturaWhile.ExecutarEstruturaWhile();
             //EstruturaWhile.ExecutarExercicioSenha();
-            EstruturaWhile.ExecutarExercicioCartesiano();
+            //EstruturaWhile.ExecutarExercicioCartesiano();
+            //EstruturaFor.ExecutarEstruturaFor();
+            //EstruturaFor.ExecutarMostarNumerosImpares();
+            // EstruturaFor.ExecutarExercicioForIntervalo();
+            EstruturaFor.ExecutarExercicioFatorial();
+
 
 
         }
